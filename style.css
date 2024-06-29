@@ -1,6 +1,8 @@
 body{
-    background-color: crimson;
+    background-color: rgb(255,222,186);
 }
 h1{
-    color: white;
+    color: red;
+    font-family: "Playwrite NG Modern", cursive;
+    text-align: center;
 }
