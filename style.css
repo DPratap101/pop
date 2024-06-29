@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&family=Playwrite+US+Trad:wght@100..400&display=swap');
 body{
     background-color: rgb(255,222,186);
 }
@@ -5,4 +6,11 @@ h1{
     color: red;
     font-family: "Playwrite NG Modern", cursive;
     text-align: center;
+}
+
+p{
+    font-family: "Playwrite US Trad", cursive;
+    text-align: center;
+    text-wrap: balance;
+    
 }
